@@ -38,7 +38,7 @@
     + 진진빨강 
 
 ##### 이미지를 넣을 때는 이미지의 이름(경로)가 필요함
-![Alt text](DALL·E 2023-03-21 10.21.52 - Please draw a puppy as a 2D character on a sky blue background.png)
+![Alt text](profile.png)
 
 # 1교시-OpenAI 맛보기
 
